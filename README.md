@@ -5,6 +5,11 @@
 
 ---
 
+![image](https://github.com/user-attachments/assets/2f969798-6e23-466b-8dc1-890d0d37217b)
+![image](https://github.com/user-attachments/assets/2b663846-9b8d-4104-a06d-315bd78f8eea)
+![image](https://github.com/user-attachments/assets/b58078ac-5eb5-486d-a6c6-8933c8499c59)
+
+
 ## Introduction
 
 Steven, Sales Manager, identified a need to improve internet sales reports by transitioning from static reports to dynamic visual dashboards. This initiative aims to enhance the ability to track sales performance over time, analyze sales by products and customers, and compare actual sales against budgeted figures. The solution employs Power BI for creating the dashboard and SQL for data manipulation and retrieval, using the AdventureWorksDW.bak database.
